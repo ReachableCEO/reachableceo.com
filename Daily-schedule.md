@@ -1,5 +1,3 @@
-# Daily schedule
-
 Over the past year or so, I've been maintaining an 18/6 schedule (awake 18 hours, asleep 6 hours).
 
 Here is how I am currently allocating time:
